@@ -4,7 +4,7 @@ body{
 }
 
 .avatar{
-    width: 150px;
+    width: 100px;
 }
 
 .card{
@@ -16,4 +16,5 @@ body{
     justify-content: space-around;
     text-align: center;
     border-bottom: 5px solid pink;
+
 }
